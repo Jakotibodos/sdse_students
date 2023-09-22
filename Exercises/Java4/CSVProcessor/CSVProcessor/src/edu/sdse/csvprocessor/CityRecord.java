@@ -24,6 +24,14 @@ public class CityRecord {
         
     }
     
+    public int getYear(){
+        return year;
+    }
+    
+    public int getPopulation(){
+        return population;
+    }
+    
     @Override
     public String toString(){
         return "id: "+id+",year: "+year+",city: "+city+",population: "+population;
