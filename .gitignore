@@ -3,3 +3,7 @@ bin/
 ~*
 .metadata/
 desktop.ini
+/Exercises/Java4/CSVProcessor/nbproject/private/
+/Exercises/Java4/CSVProcessor/build/
+/Exercises/Java4/CSVProcessor/CSVProcessor/nbproject/private/
+/Exercises/Java4/CSVProcessor/CSVProcessor/build/
